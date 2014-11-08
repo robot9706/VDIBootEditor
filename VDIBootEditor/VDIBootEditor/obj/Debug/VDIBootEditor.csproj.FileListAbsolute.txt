@@ -1,0 +1,8 @@
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\bin\Debug\VDIBootEditor.exe
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\bin\Debug\VDIBootEditor.pdb
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.csprojResolveAssemblyReference.cache
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.EditorForm.resources
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.Properties.Resources.resources
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.csproj.GenerateResource.Cache
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.exe
+C:\Users\Bence\Documents\GitHub\VDIBootEditor\VDIBootEditor\VDIBootEditor\obj\Debug\VDIBootEditor.pdb
